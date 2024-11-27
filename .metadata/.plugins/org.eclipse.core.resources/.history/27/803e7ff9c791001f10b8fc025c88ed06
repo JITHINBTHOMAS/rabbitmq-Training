@@ -1,0 +1,5 @@
+spring.application.name=rabbitMQ
+ust.rabbitmq.exchange=ust_exchange
+ust.rabbitmq.queue=ust_queue
+ust.rabbitmq.routingKey=ust_routingKey
+server.port=8099
